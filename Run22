@@ -17,7 +17,6 @@ browser = webdriver.Chrome()
 browser.get("http://suninjuly.github.io/explicit_wait2.html")
 
 
-
 # # ждем загрузки страницы
 # time.sleep(2)
 
